@@ -1,0 +1,55 @@
+[
+    {
+        "_id": 1,
+        "name": "Black Magic",
+        "stack": "Mern Stack",
+        "description": "Sell manufacturing differnet types of camera parts product in B2B.",
+        "liveSite": "https://manufacturer-blackmagic-client.web.app/",
+        "clientCode": "https://github.com/Saiket-Das/blackmagic-manufacturer-client-side",
+        "serverCode": "https://github.com/Saiket-Das/blackmagic-manufacturer-server-side",
+        "img1": "https://i.ibb.co/68RHLr0/Home.png",
+        "img2": "https://i.ibb.co/wW3CtzC/Inventory.png",
+        "img3": "https://i.ibb.co/9rq3XRF/Manage-Order.png",
+        "img4": "https://i.ibb.co/KKQvLSH/Add-comment.png",
+        "img5": "https://i.ibb.co/qDy8CbQ/Sign-up.png",
+        "more": [
+            "This is a Car buy and sell trading webiste. In this website, You can login as a admin and user at a time. As User or Admin you can add item, manage item (edit), order item, delete item.",
+            "React, Tailwind (Daisyui), React Route, React Hook form, React query, React Toast, React Font awesome, Node.JS, Express.JS, Firebase, Firebase react hooks"
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Car Trader",
+        "stack": "Mern Stack",
+        "description": "An application to buy and sell cars in B2C or C2C.",
+        "liveSite": "https://warehouse-inventory-client.web.app/",
+        "clientCode": "https://github.com/Saiket-Das/warehouse-management-client-side",
+        "serverCode": "https://github.com/Saiket-Das/warehouse-managemenet-server-side",
+        "img1": "https://i.ibb.co/wcDzqfL/Car-Trader-warehouse.png",
+        "img2": "https://i.ibb.co/d731yjV/Inventory.png",
+        "img3": "https://i.ibb.co/Qbwbm6j/Buy-Essentials.png",
+        "img4": "https://i.ibb.co/wsDXfY4/Customer-Reviews.png",
+        "img5": "https://i.ibb.co/qMPZNRr/Order-list.png",
+        "more": [
+            "This is a webiste manufacturer company who builds or manufacture Camera & Camera parts such as Lens, SD Card, Drone, Tripod, Gimbal, Camera bag etc. Customer buy products in wholesale.",
+            "React, React Toast, React Route,  React useForm, axios, react bootstarp, Node.JS, Express.JS, Firebase authentication, Firebase react hooks"
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "Jerin's Parlour",
+        "stack": "Mern Stack",
+        "description": "Used to book appointment in parlour.",
+        "clientCode": "https://github.com/Saiket-Das/jerin-parlour-client",
+        "serverCode": "https://github.com/Saiket-Das/jerin-parlours-server",
+        "img1": "https://i.ibb.co/68RHLr0/Home.png",
+        "img2": "https://i.ibb.co/wW3CtzC/Inventory.png",
+        "img3": "https://i.ibb.co/9rq3XRF/Manage-Order.png",
+        "img4": "https://i.ibb.co/KKQvLSH/Add-comment.png",
+        "img5": "https://i.ibb.co/qDy8CbQ/Sign-up.png",
+        "more": [
+            "This is a online parlour appointment booking application. In this website, You can login as a admin and user at a time according to your role(admin/user). As a User, user can book appointment, manage your appointment (edit), delete appointment and As an Admin, admin can manage users appointment, manage parlours services, add/delete services etc",
+            "React, Tailwind (Daisyui), React Route, React Hook form, React query, React Toast, React Font awesome, Node.JS, Express.JS, Firebase authentication, Firebase react hooks"
+        ]
+    }
+]
