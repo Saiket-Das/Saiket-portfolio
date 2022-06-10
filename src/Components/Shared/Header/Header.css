@@ -1,0 +1,33 @@
+ .socialIcon {
+     position: relative;
+     background: #ffffff;
+     border-radius: 50%;
+     padding: 15px;
+     margin: 10px;
+     width: 50px;
+     height: 50px;
+     font-size: 18px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+     cursor: pointer;
+     transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+ }
+
+
+
+ .icon:hover {
+     text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1);
+ }
+
+ .github:hover {
+     background: #333333;
+     color: #ffffff;
+ }
+
+ .linkedin:hover {
+     background: #0e76a8;
+     color: #ffffff;
+ }

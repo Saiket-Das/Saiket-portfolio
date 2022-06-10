@@ -17,9 +17,9 @@ const SocialLink = () => {
 
                 <div className='flex '>
 
-                    {/* --------------- FACEBOOK --------------- */}
                     <ul className="wrapper mx-auto">
 
+                        {/* --------------- Github --------------- */}
                         <a href="https://github.com/Saiket-Das" target="_blank" rel="noopener noreferrer">
                             <li className="icon github">
                                 <span className="tooltip">GitHub</span>
@@ -27,7 +27,7 @@ const SocialLink = () => {
                             </li>
                         </a>
 
-                        {/* --------------- INSTAGRAM --------------- */}
+                        {/* --------------- LinkedIn --------------- */}
                         <a href="https://www.linkedin.com/in/saiket-das-3b2900229/" target="_blank" rel="noopener noreferrer">
                             <li className="icon linkedin">
                                 <span className="tooltip">LinkedIn</span>
@@ -35,6 +35,7 @@ const SocialLink = () => {
                             </li>
                         </a>
 
+                        {/* --------------- Stack Overflow --------------- */}
                         <a href="https://stackoverflow.com/users/19033864/saiket-das" target="_blank" rel="noopener noreferrer">
                             <li className="icon stackoverflow">
                                 <span className="tooltip">Stackoverflow</span>

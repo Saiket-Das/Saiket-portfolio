@@ -1,5 +1,10 @@
 import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import './Header.css'
+
+
 
 const Header = () => {
     return (
@@ -46,7 +51,25 @@ const Header = () => {
 
 
                 <div className="navbar-end hidden lg:flex">
-                    <Link to='/login' className="btn btn-primary px-11 btn-ghost">Login</Link>
+
+                    <ul className="wrapper mx-auto text-3xl">
+
+                        {/* --------------- Github --------------- */}
+                        <a href="https://github.com/Saiket-Das" target="_blank" rel="noopener noreferrer">
+                            <li className="mx-4 socialIcon github">
+                                <span>  <FontAwesomeIcon icon={faGithub} /></span>
+                            </li>
+                        </a>
+
+                        {/* --------------- LinkedIn --------------- */}
+                        <a href="https://www.linkedin.com/in/saiket-das-3b2900229/" target="_blank" rel="noopener noreferrer">
+                            <li className="socialIcon linkedin">
+                                <span><FontAwesomeIcon icon={faLinkedin} /></span>
+                            </li>
+                        </a>
+
+                    </ul>
+
                 </div>
 
                 <div className="navbar-end lg:hidden mx-5">

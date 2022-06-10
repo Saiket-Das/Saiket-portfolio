@@ -1,6 +1,8 @@
 import React from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faUser, faGraduationCap, faLaptopCode } from '@fortawesome/free-solid-svg-icons'
+import { faGithub, faLinkedin, faStackOverflow } from '@fortawesome/free-brands-svg-icons';
+
 import myPhoto from '../../../Assets/person/My Photo.JPG'
 import './About.css'
 
@@ -182,6 +184,7 @@ const About = () => {
                                                 className="text-gray-500 text-xs">
                                                 Oct 2019 - Present
                                             </div>
+
                                         </li>
 
                                         <li>
@@ -200,6 +203,7 @@ const About = () => {
                                                 2018
                                             </div>
                                         </li>
+
                                     </ul>
 
                                 </div>

@@ -2,7 +2,6 @@ import React from 'react';
 import emailjs from "emailjs-com";
 import { useRef } from 'react';
 import { toast } from 'react-toastify';
-
 import './Contact.css'
 
 
